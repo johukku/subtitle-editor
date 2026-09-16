@@ -5,9 +5,9 @@ Whisper 字幕作成ツールの出力や、動画サイトの自動生成字幕
 音声・映像の処理は [FFmpeg](https://ffmpeg.org/) が行い、**初回起動時に自動で取得します**（同梱していません）。
 
 **[→ ダウンロード（最新版）](https://github.com/johukku/subtitle-editor/releases/latest)**　|　
-**[→ 使い方](https://johukku.pages.dev/editor/)**
+**[→ 使い方](https://johukku.com/editor/)**
 
-![スクリーンショット](https://johukku.pages.dev/assets/editor.png)
+![スクリーンショット](https://johukku.com/assets/editor.png)
 
 ---
 
@@ -41,7 +41,7 @@ FFmpeg が無くても、字幕の編集と保存はできます。
 4. 「字幕を開く...」で字幕ファイルを開く（同じ場所に同じ名前の動画があれば、一緒に開くか聞かれます）
 5. 一覧から選んで直し、「保存」（Ctrl+S）
 
-詳しい手順は[使い方のページ](https://johukku.pages.dev/editor/usage/)を参照してください。
+詳しい手順は[使い方のページ](https://johukku.com/editor/usage/)を参照してください。
 
 ### 読めるもの・書けるもの
 
